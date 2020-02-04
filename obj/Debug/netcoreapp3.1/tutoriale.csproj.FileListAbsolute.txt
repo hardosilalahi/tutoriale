@@ -1,0 +1,11 @@
+/Users/user/tutoriale/obj/Debug/netcoreapp3.1/tutoriale.csprojAssemblyReference.cache
+/Users/user/tutoriale/obj/Debug/netcoreapp3.1/tutoriale.AssemblyInfoInputs.cache
+/Users/user/tutoriale/obj/Debug/netcoreapp3.1/tutoriale.AssemblyInfo.cs
+/Users/user/tutoriale/bin/Debug/netcoreapp3.1/tutoriale
+/Users/user/tutoriale/bin/Debug/netcoreapp3.1/tutoriale.deps.json
+/Users/user/tutoriale/bin/Debug/netcoreapp3.1/tutoriale.runtimeconfig.json
+/Users/user/tutoriale/bin/Debug/netcoreapp3.1/tutoriale.runtimeconfig.dev.json
+/Users/user/tutoriale/bin/Debug/netcoreapp3.1/tutoriale.dll
+/Users/user/tutoriale/bin/Debug/netcoreapp3.1/tutoriale.pdb
+/Users/user/tutoriale/obj/Debug/netcoreapp3.1/tutoriale.dll
+/Users/user/tutoriale/obj/Debug/netcoreapp3.1/tutoriale.pdb
