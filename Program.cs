@@ -77,18 +77,18 @@ namespace tutoriale
             }
         }
 
-        static void SpliceArray(int[] arrayNum, int index, int value){
-            int[] array2 = new int[arrayNum.Length +1];
+        static void SpliceArray(int[] array1, int index, int value){
+            int[] array2 = new int[array1.Length +1];
             for(int i = 0; i < array2.Length-1; i++){
                 if(i == index){
                     array2[i] = value;
-                    array2[i+1] = arrayNum[i];
+                    array2[i+1] = array1[i];
                 }
                 else if(i < index){
-                    array2[i] = arrayNum[i];
+                    array2[i] = array1[i];
                 }
                 else if(i > index){
-                    array2[i+1] = arrayNum[i];
+                    array2[i+1] = array1[i];
                 }
             }
             for(int i = 0; i < array2.Length; i++){
