@@ -290,31 +290,6 @@ namespace tutoriale
     }
 
 
-    // class Iteration{
-    //     public static void IndexOf(int[] arrayNum, int index){
-    //         Console.WriteLine(Array.IndexOf(arrayNum, index));
-    //     }
-    //     public static void LastIndex(int[] arrayNum){
-    //         Console.WriteLine(Array.LastIndexOf(arrayNum));
-    //     }
-    //     public static void Includes(int[] arrayNum, int number){
-    //         Console.WriteLine(Array.Exists(arrayNum, number));
-    //     }
-    //     public static void Filling(int[] arrayNum, int number){
-    //         arrayNum.Fill(number);
-    //         for(int i = 0; i < arrayNum.Length; i++){
-    //             Console.WriteLine(arrayNum[i]);
-    //         }
-    //     }
-    //     public static void JoinData(int[] arrayNum, char penghubung){
-    //         Console.WriteLine(String.Join(penghubung, arrayNum));
-    //     }
-
-    //     public static void sum(int num1, int num2){
-    //         Console.WriteLine(num1 + num2);
-    //     }
-    // }
-
 }
 
 
